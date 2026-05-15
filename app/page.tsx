@@ -92,7 +92,7 @@ export default function Home() {
           <div className="group relative h-64 rounded-xl overflow-hidden cursor-pointer">
 
             <Image
-              src="/images/implemented-garden.jpg"
+              src="/images/Karen residential project.jpg"
               alt="Residential Garden Implemented"
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-110"
